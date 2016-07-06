@@ -43,6 +43,8 @@
     "gruntplugin"
   ],
   "dependencies": {
-    "slash": "~1.0.0"
+    "slash": "~1.0.0",
+    "workerpool": "^1.2.1",
+    "bluebird": "^3.4.1"
   }
 }
